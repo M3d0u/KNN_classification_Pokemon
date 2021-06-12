@@ -1,6 +1,6 @@
 # KNN_classification_Pokemon
 
-Il s'agit d'un challenge que nous avons eu dans le cadre de ma formation.
+Il s'agit d'un challenge que j'ai effectué dans le cadre de ma formation.
 En voici le pitch:
 
 "Un champion du monde Pokémon (oui, cela existe) a entendu parler de tes connaissances en Machine Learning et demande ton expertise.
